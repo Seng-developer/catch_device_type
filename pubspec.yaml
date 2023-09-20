@@ -1,6 +1,6 @@
 name: catch_device_type
 description: this plugin can check device is emulator or phycical device.
-version: 0.0.1
+version: 1.0.0
 homepage: kimseng.com
 
 environment:
